@@ -1,17 +1,17 @@
-# Истории Белово-города (History of Belovo-town)
+# Истории Белово-города (Stories of Belovo-town)
 
 ## About
 
-A project prepared specially for the rebranding «Беловский музейно-выставочный центр» ("Belovsky Museum and Exhibition Center"). The project is a web site in book format that opens on two touch monitors.
+A project specially prepared for the rebranding of «Беловский музейно-выставочный центр» ("Belovsky Museum and Exhibition Center"). The project is a website in book format which opens on two touch monitors.
 
 ## How to launch
 First you need to download the project<br>
-After you need to download the video from 
+Then you need to download the video from 
 ### https://drive.google.com/file/d/13F13sQKOfatHCx2o_xo_7_qe41p1XfbC/view?usp=sharing
-Then place the content in 
+After that, place the content in 
 ### `*project folder*/src/pages/page11/videos/`
 
-After all, run in the root directory
+Lastly, run in the root directory
 
 ### `npm i`
 
@@ -22,7 +22,7 @@ After all, run in the root directory
 ### then run debug mode and choose `2160x1920` resolution on Responsive mode
 
 
-## technology stack
+## Technology stack
 React<br>
 React DnD<br>
 React DnD Preview
