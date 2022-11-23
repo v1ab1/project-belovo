@@ -2,7 +2,7 @@
 
 ## About
 
-A project prepared specifically for the rebranding «Беловский музейно-выставочный центр» ("Belovsky Museum and Exhibition Center"). The project is a web site in book format that opens on two touch monitors.
+A project prepared specially for the rebranding «Беловский музейно-выставочный центр» ("Belovsky Museum and Exhibition Center"). The project is a web site in book format that opens on two touch monitors.
 
 ## How to launch
 First you need to download the project<br>
