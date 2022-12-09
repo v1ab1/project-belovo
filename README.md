@@ -24,6 +24,8 @@ Lastly, run in the root directory
 
 Enjoy
 
+## Backend (optional)
+
 If you want to enable the function of sending a letter to a soldier in the mail on page 11 then
 
 Download backend server from
