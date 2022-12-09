@@ -26,14 +26,14 @@ Enjoy
 
 ## Backend (optional)
 
-If you want to enable the function of sending a letter to a soldier in the mail on page 11 then
+If you want to enable the function of sending a letter to a soldier in the email on page 11 then:
 
-Download backend server from
+download backend server from
 ### `https://github.com/v1ab1/project-belovo-backend`
 
-Open app.js and write email data
+open app.js and write email data
 
-Open terminal in server directory and write
+open terminal in server directory and write
 
 ### `node start:dev`
 
