@@ -31,7 +31,7 @@ If you want to enable the function of sending a letter to a soldier in the mail 
 Download backend server from
 ### `https://github.com/v1ab1/project-belovo-backend`
 
-### `Open app.js and write email data`
+### Open app.js and write email data
 
 Open terminal in server directory and write
 
