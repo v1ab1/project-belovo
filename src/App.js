@@ -16,12 +16,13 @@ export const App = () => {
   const [pageComponents, setPagesComponents] = useState([]);
   const [opacity, setOpacity] = useState(styles.opacityUp);
   const [video, setVideo] = useState(styles.videoDown);
+  const [timerId, setTimerId] = useState();
 
   const viewerRef = useRef(null);
 
   const handlePress = ({keyCode}) => {
     if (isAnimate || (keyCode !== 37) === (keyCode !== 39)) return;
-
+    
     let newPageIndex;
 
     if (keyCode === 37) {
@@ -83,6 +84,17 @@ export const App = () => {
       viewerRef.current.focus();
     }
   }, [viewerRef]);
+
+  useEffect(() => {
+    if (pageIndexNow !== 0) {
+      clearTimeout(timerId);
+      setTimerId(
+        setTimeout(() => {
+          setPageIndexNow(0);
+        }, 300000)
+      );
+    }
+  }, [pageIndexNow]);
 
   return (
     <DndProvider backend={TouchBackend}>
