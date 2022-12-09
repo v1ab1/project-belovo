@@ -16,13 +16,30 @@ Lastly, run in the root directory
 ### `npm i`
 
 ### `yarn install`
+(some libs didn't work with npm)
 
 ### `npm start`
 
 ### then run debug mode and choose `2160x1920` resolution on Responsive mode
 
+Enjoy
+
+If you want to enable the function of sending a letter to a soldier in the mail on page 11 then
+
+Download backend server from
+### https://github.com/v1ab1/project-belovo-backend
+
+### Open app.js and write email data
+
+Open terminal in server directory and write
+
+### 'node start:dev
+
 
 ## Technology stack
 React<br>
 React DnD<br>
-React DnD Preview
+React DnD Preview<br>
+Node.js 19<br>
+Sass + sass loader<br>
+Axios<br>
