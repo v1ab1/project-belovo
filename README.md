@@ -23,6 +23,7 @@ Lastly, run in the root directory
 ### then run debug mode and choose `2160x1920` resolution on Responsive mode
 
 Enjoy
+(use ← and → to change page)
 
 ## Backend (optional)
 
