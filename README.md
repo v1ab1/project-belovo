@@ -35,7 +35,7 @@ open app.js and write email data
 
 open terminal in server directory and write
 
-### `node start:dev`
+### `npm start:dev`
 
 
 ## Technology stack
