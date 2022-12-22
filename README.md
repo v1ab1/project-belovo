@@ -4,7 +4,14 @@
 
 A project specially prepared for the rebranding of «Беловский музейно-выставочный центр» ("Belovsky Museum and Exhibition Center"). The project is a website in book format which opens on two touch monitors.
 
-## How to launch
+# How to launch
+
+Download build from 
+
+### `https://drive.google.com/file/d/1weBzAtC1ddECK5cKeMeFlVQAr7uHGfgU/view`
+
+## OR
+
 First you need to download the project<br>
 Then you need to download the video from 
 ### https://drive.google.com/file/d/13F13sQKOfatHCx2o_xo_7_qe41p1XfbC/view?usp=sharing
@@ -25,7 +32,7 @@ Lastly, run in the root directory
 Enjoy
 (use ← and → to change page)
 
-## Backend (optional)
+# Backend (optional)
 
 If you want to enable the function of sending a letter to a soldier in the email on page 11 then:
 
