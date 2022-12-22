@@ -4,7 +4,7 @@
 
 A project specially prepared for the rebranding of «Беловский музейно-выставочный центр» ("Belovsky Museum and Exhibition Center"). The project is a website in book format which opens on two touch monitors.
 
-# How to launch
+# How to launch frontend
 
 Download build from 
 
