@@ -10,6 +10,11 @@ Download build from
 
 ### `https://drive.google.com/file/d/1weBzAtC1ddECK5cKeMeFlVQAr7uHGfgU/view`
 
+### then run debug mode and choose `2160x1920` resolution on Responsive mode
+
+Enjoy
+(use ← and → to change page)
+
 ## OR
 
 First you need to download the project<br>
