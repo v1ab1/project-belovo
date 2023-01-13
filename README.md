@@ -8,7 +8,7 @@ A project specially prepared for the rebranding of «Беловский музе
 
 Download build from 
 
-### https://drive.google.com/file/d/1weBzAtC1ddECK5cKeMeFlVQAr7uHGfgU/view
+### https://drive.google.com/file/d/1j_uxS7NX0eUhvDMI-ySkIKB02b395O3e/view?usp=sharing
 
 ### then run debug mode and choose `2160x1920` resolution on Responsive mode
 
